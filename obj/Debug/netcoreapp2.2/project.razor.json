@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "f:\\VS项目\\Core\\ASP.NET-Core-MVC-Tutorial-Code\\15\\Heavy.Web\\Heavy.Web.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
