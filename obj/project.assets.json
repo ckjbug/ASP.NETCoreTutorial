@@ -17981,11 +17981,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\VS项目\\Core\\ASP.NET-Core-MVC-Tutorial-Code\\15\\Heavy.Web\\Heavy.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Heavy.Web\\Heavy.Web.csproj",
       "projectName": "Heavy.Web",
-      "projectPath": "f:\\VS项目\\Core\\ASP.NET-Core-MVC-Tutorial-Code\\15\\Heavy.Web\\Heavy.Web.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Heavy.Web\\Heavy.Web.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "f:\\VS项目\\Core\\ASP.NET-Core-MVC-Tutorial-Code\\15\\Heavy.Web\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Heavy.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
